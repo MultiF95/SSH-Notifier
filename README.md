@@ -2,7 +2,10 @@
 
 # Installation
 Copy sshN.sh; sshN_main.sh in your home directory (~/).
-Execute sshN.sh to start the script.
+
+Make sshN.sh executeable and run it.
 
 # Description
-This sktipt will send you a notification directly on you GNOME or UNITY Desktop in Linux, if someone logs in to you machine via ssh. It will refresh every 3 seconds to ensure a real time surveillance.
+This script will send you a notification directly on you GNOME or UNITY Desktop in Linux, if someone logs in to you machine via ssh. 
+
+It will refresh every 3 seconds to ensure a real time surveillance.
